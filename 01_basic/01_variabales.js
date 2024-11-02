@@ -1,6 +1,6 @@
 const accountId = 14253;
-let accountEmail = "nobi@gmail.com"
+let accountEmail = "nobi@gmail"
 var accountPassword = "sizuka"
-accountCity = "azamgarh"
+city = "azamgarh"
 
 console.table([accountId, accountEmail, accountPassword, accountCity])
