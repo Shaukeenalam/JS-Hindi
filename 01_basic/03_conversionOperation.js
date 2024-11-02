@@ -19,3 +19,23 @@ console.log(booleanInLoggedIn)
 // 1 => true ; 0 => false
 // "" => false
 // "noita" => true 
+
+
+
+// ************************ operations *********************
+
+let value = 5
+//let negValue = -value
+
+let negValue = value
+
+//console.log(negValue + 2)
+//console.log(negValue - 2)
+//console.log(negValue * 2)
+//console.log(negValue ** 2)
+//console.log(negValue % 2)
+//console.log(negValue / 2)
+
+console.log(+true)
+console.log(true)
+
